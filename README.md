@@ -7,6 +7,6 @@ This demo project is based on the tutorial at [MakeGamesWith.Us](https://www.mak
 ####How to Play
 Just drag the catapult back to launch a penguin at the seals!
 
-![Main Menu Screen](http://tclee.github.io/PeevedPenguins/images/Screenshot1.png "Main Menu Screen")
+![Main Menu Screen](http://tclee.github.io/PeevedPenguins/images/MainMenu.png "Main Menu Screen")
 
-![Gameplay Screen](http://tclee.github.io/PeevedPenguins/images/Screenshot2.png "Gameplay Screen")
+![Gameplay Screen](http://tclee.github.io/PeevedPenguins/images/Gameplay.png "Gameplay Screen")
